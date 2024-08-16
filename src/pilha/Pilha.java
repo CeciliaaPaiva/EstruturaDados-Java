@@ -4,7 +4,7 @@ public class Pilha { // Stack
     /*Regra LIFO: Last in first out - Último a entrar primeiro a sair
     * Push: Empilha
     * Pop: Desempilha
-    * Top: Topo da pilha
+    * Peek: Olha o topo da pilha
     * - Imagine uma pilha de pratos, quando precisa comer você pop o prato do topo
     * depois de lavar este, você push o prato na pilha.
     * */
